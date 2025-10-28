@@ -1,4 +1,4 @@
-Hello, I'm Silviu. I'm currently second year in Computer Science at Transilvania University of Brasov. I usually work in C++, C# or Python. I'm interested in web and native full-stack development.
+Hey, I'm Silviu. I'm currently third in Computer Science at Transilvania University of Brasov. I work in many languages, but typically I use Javascript (and its more stable counterpart Typescript), C++ and Python. I'm currently engaging in both frontend and backend development, but also getting my hands dirty with some data science :P
 
 ## Languages I use:
 
