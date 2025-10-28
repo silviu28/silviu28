@@ -1,4 +1,4 @@
-Hey, I'm Silviu. I'm currently third in Computer Science at Transilvania University of Brasov. I work in many languages, but typically I use Javascript (and its more stable counterpart Typescript), C++ and Python. I'm currently engaging in both frontend and backend development, but also getting my hands dirty with some data science :P
+Hey, I'm Silviu. I'm currently a third year Computer Science undergrad at Transilvania University of Brasov. I work in many languages, but typically I use Javascript (and its more stable counterpart Typescript), C++ and Python. I'm currently engaging in both frontend and backend development, but also getting my hands dirty with some data science :P
 
 ## Languages I use:
 
